@@ -52,7 +52,7 @@ The training settings can be found at `training_settings_v1.yaml`. Parameter tun
 
 Please note that the **initial state matters**, the theoretical best position is shown below. 
 
-<img src="C:/Users/15740/AppData/Roaming/Typora/typora-user-images/image-20220810223818378.png" alt="image-20220810223818378" style="zoom:50%;" />
+<img src="Misc/parking position.png" style="zoom:50%;" />
 
 #### Training in parallel
 
@@ -64,7 +64,7 @@ After training for a while, you may use the Tensorboard tool to visualize the lo
 
 `tensorboard --logdir result`
 
-![img](file:///F:\Tencent Files\1574074497\Image\C2C\Image1\@%(`NFT)CI_`B_[A90EU[DW.png)
+![](Misc/tensorboard.png)
 
 ## Results
 
